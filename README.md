@@ -116,9 +116,4 @@ Here’s how the chatbot looks when running locally:
 ![DeepSeek Chatbot UI](Chatbot.png)
 
 
-## Contributing
-Feel free to submit pull requests and issues to improve the chatbot.
-
-## License
-This project is licensed under the MIT License.
 
